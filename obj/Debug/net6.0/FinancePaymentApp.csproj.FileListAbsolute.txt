@@ -1,0 +1,15 @@
+C:\Users\long.pham\FinancePaymentApp\bin\Debug\net6.0\FinancePaymentApp.exe
+C:\Users\long.pham\FinancePaymentApp\bin\Debug\net6.0\FinancePaymentApp.deps.json
+C:\Users\long.pham\FinancePaymentApp\bin\Debug\net6.0\FinancePaymentApp.runtimeconfig.json
+C:\Users\long.pham\FinancePaymentApp\bin\Debug\net6.0\FinancePaymentApp.dll
+C:\Users\long.pham\FinancePaymentApp\bin\Debug\net6.0\FinancePaymentApp.pdb
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\FinancePaymentApp.csproj.AssemblyReference.cache
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\FinancePaymentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\FinancePaymentApp.AssemblyInfoInputs.cache
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\FinancePaymentApp.AssemblyInfo.cs
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\FinancePaymentApp.csproj.CoreCompileInputs.cache
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\FinancePaymentApp.dll
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\refint\FinancePaymentApp.dll
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\FinancePaymentApp.pdb
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\FinancePaymentApp.genruntimeconfig.cache
+C:\Users\long.pham\FinancePaymentApp\obj\Debug\net6.0\ref\FinancePaymentApp.dll
